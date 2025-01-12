@@ -1,0 +1,22 @@
+title: Title of your site
+description: Write an awesome description for your new site here.
+url: http://localhost:4000/
+author:
+  name: Data Concierge
+  email: dataconcierge@proton.me
+  website: https://dataconcierge.uk
+# theme: minimal-mistakes-jekyll
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+company:
+  name: Your Company
+  address: Your Address
+  phone: Your Phone
+  email: your.email@example.com
+  linkedin: https://www.linkedin.com/in/dataconciergeuk/
